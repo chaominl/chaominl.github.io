@@ -1,4 +1,5 @@
 Chao-Ming Lin
+=============
 
 chaominl at uci dot edu
 
@@ -8,3 +9,4 @@ University of California, Irvine
 
 
 Research
+--------

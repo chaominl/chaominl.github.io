@@ -1,5 +1,5 @@
-Chao-Ming Lin
-=============
+# Chao-Ming Lin
+
 
 chaominl at uci dot edu
 
@@ -8,5 +8,4 @@ Department of Mathematics
 University of California, Irvine  
 
 
-Research
---------
+## Research

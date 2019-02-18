@@ -1,7 +1,7 @@
 # Chao-Ming Lin
 
 
-chaominl at uci dot edu
+> chaominl at uci dot edu
 
 Ph.D. Student  
 Department of Mathematics  

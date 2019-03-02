@@ -31,8 +31,4 @@ Bachelor of Science
 2010-2014  
 
 
-
-
-
-
 Back to [Homepage](https://chaominl.github.io)

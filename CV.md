@@ -30,4 +30,9 @@ Bachelor of Science
 [National Taiwan University](http://www.ntu.edu.tw) (國立臺灣大學)   
 2010-2014  
 
+
+
+
+
+
 Back to [Homepage](https://chaominl.github.io)

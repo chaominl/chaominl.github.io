@@ -11,7 +11,7 @@ University of California, Irvine
 
 Research Assistant  
 Mathematics Division at  
-National Center for Theoretical Science (NCTU)  
+National Center for Theoretical Sciences (NCTU)  
 2016-2017  
 
 Master Student  

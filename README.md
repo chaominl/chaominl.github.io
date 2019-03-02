@@ -8,5 +8,9 @@ I am a second year PhD student at University of California-Irvine advised by [Zh
 
 ## [Curriculum Vitae](https://chaominl.github.io/CV)   
 
+## Teaching Assistant
+2018 Fall: Math 2B Calculus
+[Previous](https://chaominl.github.io/TeachingExperience)
+
 ## Research
 This is [my personal webpage](https://chaominl.github.io) inline link.

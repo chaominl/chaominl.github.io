@@ -8,6 +8,12 @@
 #### Course taught at NTU
 * Hi
 
+<pre><code>Foo
+---
+
+Foo
+</code></pre>
+<hr />
 
                         
 <br />    

@@ -10,8 +10,8 @@
 University of California, Irvine   
 2017-present    
 ```
-Advisor: <a href="https://www.math.uci.edu/~zlu/" titile="Prof. Zhiqin Lu"> </a>  
-         <a href="https://www.math.uci.edu/~xiangwen/" title="Prof. Xiangwen Zhang"> </a>  
+<p>Advisor: <a href="https://www.math.uci.edu/~zlu/" titile="Prof. Zhiqin Lu"> </a><\p>  
+<p>         <a href="https://www.math.uci.edu/~xiangwen/" title="Prof. Xiangwen Zhang"> </a><\p>  
 (Sort by Last Name.)  
 ```
 

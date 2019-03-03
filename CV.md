@@ -6,7 +6,7 @@ Complex Geometry
 # Education
 
 Ph.D. Student  
-Department of Mathematics  
+[Department of Mathematics](https://www.math.uci.edu)  
 University of California, Irvine   
 2017-present    
 Advisor:    [Prof. Zhiqin Lu](https://www.math.uci.edu/~zlu/)  

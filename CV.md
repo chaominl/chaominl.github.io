@@ -10,7 +10,7 @@
 University of California, Irvine   
 2017-present    
 Advisor: [Prof. Zhiqin Lu](https://www.math.uci.edu/~zlu/)  
- &nbsp; &nbsp;   &nbsp;  &nbsp;  [Prof. Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/)  
+ &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Prof. Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/)  
 (Sort by Last Name.)  
 
 * Research Assistant  

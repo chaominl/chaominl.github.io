@@ -10,10 +10,12 @@
 University of California, Irvine   
 2017-present    
 ```
-Advisor: [Prof. Zhiqin Lu](https://www.math.uci.edu/~zlu/)  
-         [Prof. Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/)  
+Advisor: <a href="https://www.math.uci.edu/~zlu/" titile="Prof. Zhiqin Lu"> </a>  
+         <a href="https://www.math.uci.edu/~xiangwen/" title="Prof. Xiangwen Zhang"> </a>  
 (Sort by Last Name.)  
 ```
+
+
 * Research Assistant  
 Mathematics Division at  
 [National Center for Theoretical Sciences](http://www.ncts.ntu.edu.tw) (NCTS)  

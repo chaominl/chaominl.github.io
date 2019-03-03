@@ -12,5 +12,4 @@ I am a second year PhD student at University of California-Irvine advised by [Zh
 2018 Fall: Math 2B Calculus  
 [Previous](https://chaominl.github.io/TeachingExperience)
 
-## Research
-This is [my personal webpage](https://chaominl.github.io) inline link.
+## [Research](https://chaominl.github.io/Research)

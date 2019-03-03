@@ -3,7 +3,7 @@
 * Fall 2019:              Math 2B Calculus    
 * Winter 2018:            Math 3D Differential Equations    
 * Summer Session 2018:    Math 2B Calculus  
-<pre>
+</pre>
 
 #### Course taught at NTU (National Taiwan University) as a Teaching Assistant  
 * Spring 2016:            Math 1210 Calculus II (Math Major) 

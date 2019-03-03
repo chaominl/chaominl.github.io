@@ -1,6 +1,7 @@
 # Chao-Ming Lin
+Chinese: 林朝明
 
-chaominl [at] uci [dot] edu
+** chaominl [at] uci [dot] edu **
 
 
 ## About me

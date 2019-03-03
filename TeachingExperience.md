@@ -1,11 +1,12 @@
 #### Course taught at UCI (University of California Irvine) as a Teaching Assistant  
-<pre>
-* Fall 2019:              Math 2B Calculus    
-* Winter 2018:            Math 3D Differential Equations    
-* Summer Session 2018:    Math 2B Calculus  
-</pre>
+
+* Fall 2019: &nbsp;  &nbsp;            Math 2B Calculus    
+* Winter 2018:      &nbsp;      Math 3D Differential Equations    
+* Summer Session 2018:  &nbsp;  Math 2B Calculus  
+
 
 #### Course taught at NTU (National Taiwan University) as a Teaching Assistant  
+
 * Spring 2016:            Math 1210 Calculus II (Math Major) 
 * Fall 2015:              Math 1211 Calculus I  (Math Major)
 * Spring 2015:            Math 2206 Introduction to Partial Differential Equations

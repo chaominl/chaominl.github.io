@@ -9,11 +9,9 @@
 [Department of Mathematics](https://www.math.uci.edu)  
 University of California, Irvine   
 2017-present    
-```
-<p>Advisor: <a href="https://www.math.uci.edu/~zlu/" titile="Prof. Zhiqin Lu"> </a><\p>  
-<p>         <a href="https://www.math.uci.edu/~xiangwen/" title="Prof. Xiangwen Zhang"> </a><\p>  
+Advisor: [Prof. Zhiqin Lu](https://www.math.uci.edu/~zlu/)    
+         [Prof. Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/)   
 (Sort by Last Name.)  
-```
 
 
 * Research Assistant  

@@ -1,10 +1,9 @@
 #### Course taught at UCI
 
-* Fall 2019:              <p align="center"> Math 2B Calculus (Teaching Assistant) </p>
-* Winter 2018:            <p align="center"> Math 3D Differential Equations (Teaching Assistant) </p>
+* Fall 2019:              item Math 2B Calculus (Teaching Assistant)
+* Winter 2018:            item Math 3D Differential Equations (Teaching Assistant)
 * Summer Session 2018:    Math 2B Calculus (Teaching Assistant) 
 
-<p align="left">I'm Left</p>
 
 #### Course taught at NTU
 * Hi

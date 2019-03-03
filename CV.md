@@ -4,13 +4,13 @@
 
 
 # Education
-
+```
 * Ph.D. Student  
 [Department of Mathematics](https://www.math.uci.edu)  
 University of California, Irvine   
 2017-present    
 Advisor: [Prof. Zhiqin Lu](https://www.math.uci.edu/~zlu/)  
- &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Prof. Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/)  
+         [Prof. Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/)  
 (Sort by Last Name.)  
 
 * Research Assistant  
@@ -29,7 +29,7 @@ Advisor: [Prof. Chung-Jun Tsai](http://homepage.ntu.edu.tw/~cjtsai/)
 [Department of Mathematics](http://www.math.ntu.edu.tw)  
 [National Taiwan University](http://www.ntu.edu.tw) (國立臺灣大學)   
 2010-2014  
-
+```
                         
 <br />    
 <br />

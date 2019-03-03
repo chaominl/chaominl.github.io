@@ -15,8 +15,8 @@ I am a second year PhD student at University of California-Irvine advised by [Zh
 <br />
 
 
-## Teaching Assistant
-2018 Fall: Math 2B Calculus  
+## Teaching
+2018 Fall: Math 2B Calculus (Teaching Assistant)  
 [Previous](https://chaominl.github.io/TeachingExperience)
 
 <br />

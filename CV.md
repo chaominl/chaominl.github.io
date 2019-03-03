@@ -31,9 +31,8 @@ Advisor:    [Prof. Chung-Jun Tsai](http://homepage.ntu.edu.tw/~cjtsai/)
 2010-2014  
 
                         
-                                   
-                                   
-  
-    
+<br />    
+<br />
+<br />
       
 #### Back to [Homepage](https://chaominl.github.io)

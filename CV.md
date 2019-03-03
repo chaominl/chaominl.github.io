@@ -1,6 +1,6 @@
 # Research Interest
-*Differential Geometry  
-*Complex Geometry 
+* Differential Geometry  
+* Complex Geometry 
 
 
 # Education
@@ -31,4 +31,4 @@ Bachelor of Science
 2010-2014  
 
 
-###### Back to [Homepage](https://chaominl.github.io)
+#### Back to [Homepage](https://chaominl.github.io)

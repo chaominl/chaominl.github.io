@@ -1,4 +1,4 @@
-I personally like wildlife a lot, so I like to go to zoo or marine life museum. I approve the [San Diego Zoo's goal](https://zoo.sandiegozoo.org/our-mission) to save specied around the world, you can see the link for how it works.
+I personally like wildlife a lot, so I like to go to zoo or marine life museum. I approve the [San Diego Zoo's goal](https://zoo.sandiegozoo.org/our-mission) to save species around the world, you can check the above link to see how it works.
 
 
 # 2018 San Diego Zoo

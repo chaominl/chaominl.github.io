@@ -1,7 +1,8 @@
 #### Course taught at UCI (University of California Irvine) as a Teaching Assistant  
 
+* Spring 2019: &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Math 3D Elementary Differential Equations       
 * Fall 2019: &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Math 2B Calculus    
-* Winter 2018:     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Math 3D Differential Equations    
+* Winter 2018:     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Math 3D Elementary Differential Equations    
 * Summer 2018:  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  Math 2B Calculus  
 
 

@@ -37,7 +37,7 @@ __Summer 2018__ | Math 2B Calculus
 <br />
 <br />
 
-###### Last modified: April 11, 2019.
+###### Last modified: April 26, 2019.
 <br />
 
       

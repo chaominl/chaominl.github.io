@@ -1,20 +1,29 @@
 #### Course taught at UCI (University of California Irvine) as a Teaching Assistant  
 
-* Spring 2019: &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Math 3D Elementary Differential Equations       
-* Fall 2019: &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Math 2B Calculus    
-* Winter 2018:     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Math 3D Elementary Differential Equations    
-* Summer 2018:  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  Math 2B Calculus  
+__Quarter__ | __Teaching Assistant__
+:------------ | :-----------------
+__Spring 2019__ | Math 3D Elementary Differential Equations 
+__Winter 2019__ | Math 2B Calculus
+__Fall 2018__ | Math 3D Elementary Differential Equations
+__Summer 2018__ | Math 2B Calculus
+
+
 
 
 
 #### Course taught at NTU (National Taiwan University) as a Teaching Assistant  
 
-* Spring 2016: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;           Math 1210 Calculus II (Math Major) 
-* Fall 2015:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;             Math 1211 Calculus I  (Math Major)
-* Spring 2015: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;           Math 2206 Introduction to Partial Differential Equations
-* Spring 2015: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;           Math 1202 Calculus II
-* Fall 2014: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;             Math 2205 Introduction to Ordinary Differential Equations
-* Fall 2014: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;             Math 1201 Calculus I
+| __Semister__ | __Teaching Assistant__ |
+|:------------ | :-----------------|
+|__Spring 2016__ | Math 1210 Calculus II (Math Major) |
+|__Fall 2015__ |  Math 1211 Calculus I  (Math Major) |
+|__Spring 2015__ | Math 2206 Introduction to Partial Differential Equations |
+| | Math 1202 Calculus II |
+|__Fall 2014__ | Math 2205 Introduction to Ordinary Differential Equations    |
+| |  Math 1201 Calculus I |
+
+
+
 
 
 

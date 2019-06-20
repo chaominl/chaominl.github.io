@@ -2,6 +2,7 @@
 
 __Quarter__ | __Teaching Assistant__
 :------------ | :-----------------
+__Summer 2019__ | Math 3D Elementary Differential Equations 
 __Spring 2019__ | Math 3D Elementary Differential Equations 
 __Winter 2019__ | Math 2B Calculus
 __Fall 2018__ | Math 3D Elementary Differential Equations
@@ -37,7 +38,7 @@ __Summer 2018__ | Math 2B Calculus
 <br />
 <br />
 
-###### Last modified: April 26, 2019.
+###### Last modified: June 19, 2019.
 <br />
 
       

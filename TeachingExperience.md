@@ -1,6 +1,6 @@
 #### Course taught at UCI (University of California Irvine) as a Teaching Assistant  
 
-__Quarter__ | __Year__ | __Teaching Assistant__
+__Quarter__ | __Year__ | __Course__
 :------------ |  :------------ | :-----------------
 __Summer Session I__ | __2019__ | Math 3D Elementary Differential Equations 
 __Spring__ | __2019__ | Math 3D Elementary Differential Equations 
@@ -17,7 +17,7 @@ __Summer Session II__ | __2018__ | Math 2B Calculus
 
 #### Course taught at NTU (National Taiwan University) as a Teaching Assistant  
 
-| __Semister__ | __Year__ | __Teaching Assistant__ |
+| __Semister__ | __Year__ | __Course__ |
 |:------------  | :------------ | :-----------------|
 |__Spring__ | __2016__ | Math 1210 Calculus II (Math Major) |
 |__Fall__ | __2015__ |  Math 1211 Calculus I  (Math Major) |

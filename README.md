@@ -6,7 +6,7 @@ Chinese: 林朝明
 
 
 ## About me
-I am a second year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in J-flow and Bedford-Taylor Theory.
+I am a third year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in J-flow and Bedford-Taylor Theory.
 
 <br />
 
@@ -17,7 +17,7 @@ I am a second year PhD student at University of California-Irvine advised by [Zh
 
 
 ## Teaching
-2019 Spring: Math 3D Elementary Differential Equations (Teaching Assistant)   
+2019 Summer: Math 3D Elementary Differential Equations (Teaching Assistant)   
 > Office Hours: 
 >> Monday 3:00 p.m. - 5:00 p.m.   
 >> Wednesday 3:00 p.m. - 5:00 p.m.    

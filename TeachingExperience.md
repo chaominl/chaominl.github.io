@@ -1,12 +1,12 @@
 #### Course taught at UCI (University of California Irvine) as a Teaching Assistant  
 
-__Quarter__ | __Teaching Assistant__
-:------------ | :-----------------
-__Summer 2019__ | Math 3D Elementary Differential Equations 
-__Spring 2019__ | Math 3D Elementary Differential Equations 
-__Winter 2019__ | Math 2B Calculus
-__Fall 2018__ | Math 3D Elementary Differential Equations
-__Summer 2018__ | Math 2B Calculus
+__Quarter__ | __Year__ | __Teaching Assistant__
+:------------ |  :------------ | :-----------------
+__Summer Session I__ | __2019__ | Math 3D Elementary Differential Equations 
+__Spring__ | __2019__ | Math 3D Elementary Differential Equations 
+__Winter__  | __2019__ | Math 2B Calculus
+__Fall__ | __2018__ | Math 3D Elementary Differential Equations
+__Summer Session II__ | __2018__ | Math 2B Calculus
 
 
 <br />    

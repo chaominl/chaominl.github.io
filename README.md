@@ -17,7 +17,7 @@ I am a third year PhD student at University of California-Irvine advised by [Zhi
 
 
 ## Teaching
-2019 Summer: Math 3D Elementary Differential Equations (Teaching Assistant)   
+2019 Summer Session I: Math 3D Elementary Differential Equations (Teaching Assistant)   
 > Office Hours: 
 >> Tuesday 8:00 a.m. - 10:00 a.m.   
 >> Friday 8:00 p.m. - 9:00 p.m.    

@@ -40,7 +40,7 @@ __Summer Session II__ | __2018__ | Math 2B Calculus
 <br />
 <br />
 
-###### Last modified: June 19, 2019.
+###### Last modified: September 29, 2019.
 <br />
 
       

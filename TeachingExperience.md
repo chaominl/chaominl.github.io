@@ -2,6 +2,8 @@
 
 __Quarter__ | __Year__ | __Course__
 :------------ |  :------------ | :-----------------
+__Fall__ | __2019__ | Math 3A Introduction to Linear Algebra 
+| | | Math 118 Theory of Differential Equations |
 __Summer Session I__ | __2019__ | Math 3D Elementary Differential Equations 
 __Spring__ | __2019__ | Math 3D Elementary Differential Equations 
 __Winter__  | __2019__ | Math 2B Calculus

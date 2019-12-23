@@ -2,6 +2,7 @@
 
 |__Quarter__ | __Year__ | __Course__ |
 |:------------ |  :------------ | :-----------------|
+|__Winter__ | __2020__ |   |
 |__Fall__ | __2019__ | Math 3A Introduction to Linear Algebra  |
 | | | Math 118 Theory of Differential Equations  |
 |__Summer Session I__ | __2019__ | Math 3D Elementary Differential Equations |
@@ -40,7 +41,7 @@
 <br />
 <br />
 
-###### Last modified: September 29, 2019.
+###### Last modified: December 22, 2019.
 <br />
 
       

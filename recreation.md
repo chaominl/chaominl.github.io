@@ -24,7 +24,7 @@ I personally like wildlife a lot, so I like to go to zoo or marine life museum. 
 
 
 # 2019 Winter in California
-My college classmates came to California in 2019 Winter, we had a great time hanging out together!!
+My college classmates came to South California in 2019 Winter, we had a great time hanging out together!!
 
 ![2019 Winter CA 1](/pic/2019 Winter in California/DSC_5865.jpeg)  
 ![2019 Winter CA 2](/pic/2019 Winter in California/DSC_5980.jpeg)  

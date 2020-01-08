@@ -19,8 +19,8 @@ I am a third year PhD student at University of California-Irvine advised by [Zhi
 ## Teaching
 2020 Winter: Math 3D Elementary Differential Equations
 > Office Hours: 
->> Monday 3:00 p.m. - 5:00 p.m.   
->> Wednesday 3:00 p.m. - 5:00 p.m. 
+>> Tuesday 2:00 p.m. - 4:00 p.m.   
+>> Wednesday 10:00 a.m. - 12:00 p.m. 
 
 > Location: 
 >> Rowland Hall 250A   
@@ -42,4 +42,4 @@ I am a third year PhD student at University of California-Irvine advised by [Zhi
 <br />
 
 
-###### Last modified: January 04, 2020.
+###### Last modified: January 08, 2020.

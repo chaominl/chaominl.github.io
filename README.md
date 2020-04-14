@@ -17,13 +17,13 @@ I am a third year PhD student at University of California-Irvine advised by [Zhi
 
 
 ## Teaching
-2020 Winter: Math 3D Elementary Differential Equations
+2020 Spring: Math 205C Introduction to Graduate Analysis
 > Office Hours: 
->> Tuesday 2:00 p.m. - 4:00 p.m.   
->> Wednesday 10:00 a.m. - 12:00 p.m. 
+>> Tuesday 11:00 a.m. - 11:50 a.m.   
+>> Thursday 9:00 a.m. - 10:00 a.m. 
 
 > Location: 
->> Rowland Hall 250A   
+>> Zoom   
 
 
 [Previous](https://chaominl.github.io/TeachingExperience)
@@ -42,4 +42,4 @@ I am a third year PhD student at University of California-Irvine advised by [Zhi
 <br />
 
 
-###### Last modified: January 08, 2020.
+###### Last modified: April 13, 2020.

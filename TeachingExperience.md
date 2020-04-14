@@ -2,6 +2,7 @@
 
 |__Quarter__ | __Year__ | __Course__ |
 |:------------ |  :------------ | :-----------------|
+|__Spring__ | __2020__ | Math 205C Introduction to Graduate Analysis  |
 |__Winter__ | __2020__ | Math 3D Elementary Differential Equations  |
 |__Fall__ | __2019__ | Math 3A Introduction to Linear Algebra  |
 | | | Math 118 Theory of Differential Equations  |
@@ -41,7 +42,7 @@
 <br />
 <br />
 
-###### Last modified: December 22, 2019.
+###### Last modified: April 13, 2020.
 <br />
 
       

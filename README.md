@@ -23,14 +23,14 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 >> Thursday 4:00 p.m. - 5:00 p.m. 
 
 > Location: 
->> [Zoom](https://uci.zoom.us/j/92724056541) https://uci.zoom.us/j/92724056541
+>> Zoom: https://uci.zoom.us/j/92724056541
 
 > Office Hours: 
 >> Wednesday 3:00 p.m. - 4:00 p.m.   
 >> Friday 3:00 p.m. - 4:00 p.m. 
 
 > Location: 
->> [Zoom](https://uci.zoom.us/j/91464097406) https://uci.zoom.us/j/91464097406
+>> Zoom: https://uci.zoom.us/j/91464097406
 
 
 2020 Fall: Math 118 Theory of Differential Equations
@@ -39,13 +39,13 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 >> Thursday 4:00 p.m. - 5:00 p.m. 
 
 > Location: 
->> [Zoom](https://uci.zoom.us/j/98686106446) https://uci.zoom.us/j/98686106446
+>> Zoom: https://uci.zoom.us/j/98686106446
 
 > Office Hours: 
 >> Wednesday 1:00 p.m. - 3:00 p.m.   
 
 > Location: 
->> [Zoom](https://uci.zoom.us/j/95315064258) https://uci.zoom.us/j/95315064258
+>> Zoom: https://uci.zoom.us/j/95315064258
 
 
 

@@ -2,6 +2,10 @@
 
 |__Quarter__ | __Year__ | __Course__ |
 |:------------ |  :------------ | :-----------------|
+|__Fall__ | __2020__ | Math 5B BioCalculus  |
+| | | Math 118 Theory of Differential Equations  |
+|__Summer Session I__ | __2020__ | Math 3D Elementary Differential Equations |
+| | | Math 175 Combinatorics  |
 |__Spring__ | __2020__ | Math 205C Introduction to Graduate Analysis  |
 |__Winter__ | __2020__ | Math 3D Elementary Differential Equations  |
 |__Fall__ | __2019__ | Math 3A Introduction to Linear Algebra  |
@@ -42,7 +46,7 @@
 <br />
 <br />
 
-###### Last modified: April 13, 2020.
+###### Last modified: September 24, 2020.
 <br />
 
       

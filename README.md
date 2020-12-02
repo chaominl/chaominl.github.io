@@ -16,6 +16,11 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 <br />
 
 
+## [Research](https://chaominl.github.io/Research)
+
+<br />
+
+
 ## Teaching
 2020 Fall: Math 5B BioCalculus
 > Discussion Sessions: 
@@ -54,10 +59,6 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 <br />
 
 
-## [Research](https://chaominl.github.io/Research)
-
-<br />
-
 ## [Non-Math](https://chaominl.github.io/recreation)
 
 <br />
@@ -65,4 +66,4 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 <br />
 
 
-###### Last modified: September 24, 2020.
+###### Last modified: December 02, 2020.

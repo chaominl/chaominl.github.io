@@ -4,7 +4,7 @@
 <br />
 
 
-# [arXiv page]{https://arxiv.org/a/lin_c_7.html}
+# [arXiv page](https://arxiv.org/a/lin_c_7.html)
 <br />    
 <br />
 <br />

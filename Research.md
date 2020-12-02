@@ -2,12 +2,8 @@
 
 <br />    
 <br />
-
+<br />
 
 #### [arXiv page](https://arxiv.org/a/lin_c_7.html)
-<br />    
-<br />
-<br />
-
 ###### Last modified: December 02, 2020.
 #### Back to [Homepage](https://chaominl.github.io)

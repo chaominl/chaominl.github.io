@@ -11,12 +11,12 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 <br />
 
 
-## [Curriculum Vitae](https://chaominl.github.io/CV)   
+## [Research](https://chaominl.github.io/Research)
 
 <br />
 
 
-## [Research](https://chaominl.github.io/Research)
+## [Curriculum Vitae](https://chaominl.github.io/CV)   
 
 <br />
 

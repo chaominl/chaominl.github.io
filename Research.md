@@ -1,7 +1,10 @@
-Deformed Hermitian-Yang-Mills Equation on Compact Hermitian Manifolds, [arXiv:2012.00487](https://arxiv.org/pdf/2012.00487.pdf) (2020)
+* Deformed Hermitian-Yang-Mills Equation on Compact Hermitian Manifolds, [arXiv:2012.00487](https://arxiv.org/pdf/2012.00487.pdf) (2020)
+
+<br />    
+<br />
 
 
-                        
+# [arXiv page]{https://arxiv.org/a/lin_c_7.html}
 <br />    
 <br />
 <br />

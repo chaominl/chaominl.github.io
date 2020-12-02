@@ -47,7 +47,4 @@
 <br />
 
 ###### Last modified: December 02, 2020.
-<br />
-
-      
 #### Back to [Homepage](https://chaominl.github.io)

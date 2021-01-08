@@ -22,35 +22,19 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 
 
 ## Teaching
-2020 Fall: Math 5B BioCalculus
+2021 Winter: Math 134B Financial Derivatives
 > Discussion Sessions: 
->> Tuesday 4:00 p.m. - 5:00 p.m.   
->> Thursday 4:00 p.m. - 5:00 p.m. 
+>> Tuesday 3:00 p.m. - 3:50 p.m.   
+>> Thursday 3:00 p.m. - 3:50 p.m. 
 
 > Location: 
->> Zoom: https://uci.zoom.us/j/92724056541
+>> Zoom: https://uci.zoom.us/j/96389292560
 
 > Office Hours: 
->> Wednesday 3:00 p.m. - 4:00 p.m.   
->> Friday 3:00 p.m. - 4:00 p.m. 
+>> Wednesday 4:00 p.m. - 5:00 p.m.   
 
 > Location: 
->> Zoom: https://uci.zoom.us/j/91464097406
-
-
-2020 Fall: Math 118 Theory of Differential Equations
-> Discussion Sessions: 
->> Tuesday 4:00 p.m. - 5:00 p.m.   
->> Thursday 4:00 p.m. - 5:00 p.m. 
-
-> Location: 
->> Zoom: https://uci.zoom.us/j/98686106446
-
-> Office Hours: 
->> Wednesday 1:00 p.m. - 3:00 p.m.   
-
-> Location: 
->> Zoom: https://uci.zoom.us/j/95315064258
+>> Zoom: https://uci.zoom.us/j/96389292560
 
 
 
@@ -66,4 +50,4 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 <br />
 
 
-###### Last modified: December 02, 2020.
+###### Last modified: January 08, 2021.

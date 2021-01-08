@@ -37,6 +37,9 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 > Location: 
 >> Zoom: https://uci.zoom.us/j/96389292560
 
+> Notes:
+>> https://github.com/chaominl/TA-materials
+
 
 
 [Previous](https://chaominl.github.io/TeachingExperience)

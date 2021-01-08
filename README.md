@@ -31,7 +31,8 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 >> Zoom: https://uci.zoom.us/j/96389292560
 
 > Office Hours: 
->> Wednesday 4:00 p.m. - 5:00 p.m.   
+>> Tuesday 4:00 p.m. - 5:00 p.m.   
+>> Thursday 4:00 p.m. - 5:00 p.m.   
 
 > Location: 
 >> Zoom: https://uci.zoom.us/j/96389292560

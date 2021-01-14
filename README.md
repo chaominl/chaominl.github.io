@@ -28,17 +28,17 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 >> Thursday 3:00 p.m. - 3:50 p.m. PT 
 
 > Location: 
->> Zoom: https://uci.zoom.us/j/96389292560
+>> Zoom: [https://uci.zoom.us/j/96389292560](https://uci.zoom.us/j/96389292560)
 
 > Office Hours: 
 >> Tuesday 4:00 p.m. - 5:00 p.m. PT   
 >> Thursday 4:00 p.m. - 5:00 p.m. PT   
 
 > Location: 
->> Zoom: https://uci.zoom.us/j/96389292560
+>> Zoom: [https://uci.zoom.us/j/96389292560](https://uci.zoom.us/j/96389292560)
 
 > Notes:
->> https://github.com/chaominl/TA-materials
+>> [https://github.com/chaominl/TA-materials](https://github.com/chaominl/TA-materials)
 
 
 

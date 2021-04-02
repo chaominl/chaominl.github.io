@@ -22,23 +22,35 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 
 
 ## Teaching
-2021 Winter: Math 134B Financial Derivatives
+Spring 2021: Math 134B Financial Derivatives
 > Discussion Sessions: 
->> Tuesday 3:00 p.m. - 3:50 p.m. PT   
->> Thursday 3:00 p.m. - 3:50 p.m. PT 
+>> Tuesday 4:00 p.m. - 4:50 p.m. PT   
+>> Thursday 4:00 p.m. - 4:50 p.m. PT 
 
 > Location: 
->> Zoom: [https://uci.zoom.us/j/96389292560](https://uci.zoom.us/j/96389292560)
+>> Zoom: [https://uci.zoom.us/j/94381124681](https://uci.zoom.us/j/94381124681)
 
 > Office Hours: 
->> Tuesday 4:00 p.m. - 5:00 p.m. PT   
->> Thursday 4:00 p.m. - 5:00 p.m. PT   
+>> Tuesday 1:00 p.m. - 2:00 p.m. PT   
+>> Thursday 1:00 p.m. - 2:00 p.m. PT   
 
 > Location: 
->> Zoom: [https://uci.zoom.us/j/96389292560](https://uci.zoom.us/j/96389292560)
+>> Zoom: [https://uci.zoom.us/j/98210891979](https://uci.zoom.us/j/98210891979)
 
-> Notes:
->> [https://github.com/chaominl/TA-materials](https://github.com/chaominl/TA-materials)
+Spring 2021: Math 134C Financial Models
+> Discussion Sessions: 
+>> Tuesday 12:00 p.m. - 12:50 p.m. PT   
+>> Thursday 12:00 p.m. - 12:50 p.m. PT 
+
+> Location: 
+>> Zoom: [https://uci.zoom.us/j/93865690779](https://uci.zoom.us/j/93865690779)
+
+> Office Hours: 
+>> Tuesday 1:00 p.m. - 2:00 p.m. PT   
+>> Thursday 1:00 p.m. - 2:00 p.m. PT   
+
+> Location: 
+>> Zoom: [https://uci.zoom.us/j/98210891979](https://uci.zoom.us/j/98210891979)
 
 
 
@@ -54,4 +66,4 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 <br />
 
 
-###### Last modified: January 08, 2021.
+###### Last modified: April 02, 2021.

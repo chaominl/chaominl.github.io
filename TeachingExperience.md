@@ -2,6 +2,8 @@
 
 |__Quarter__ | __Year__ | __Course__ |
 |:------------ |  :------------ | :-----------------|
+|__Spring__ | __2021__ | Math 134B Financial Derivatives  |
+| | | Math 134C Financial Models  |
 |__Winter__ | __2021__ | Math 134B Financial Derivatives  |
 |__Fall__ | __2020__ | Math 5B BioCalculus  |
 | | | Math 118 Theory of Differential Equations  |
@@ -47,5 +49,5 @@
 <br />
 <br />
 
-###### Last modified: January 08, 2021.
+###### Last modified: April 02, 2021.
 #### Back to [Homepage](https://chaominl.github.io)

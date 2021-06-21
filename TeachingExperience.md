@@ -1,4 +1,4 @@
-#### Course taught at UCI (University of California Irvine) as a Teaching Assistant  
+#### Courses taught at UCI (University of California Irvine) as a Teaching Assistant  
 
 |__Quarter__ | __Year__ | __Course__ |
 |:------------ |  :------------ | :-----------------|
@@ -27,7 +27,7 @@
 
 
 
-#### Course taught at NTU (National Taiwan University) as a Teaching Assistant  
+#### Courses taught at NTU (National Taiwan University) as a Teaching Assistant  
 
 | __Semister__ | __Year__ | __Course__ |
 |:------------  | :------------ | :-----------------|

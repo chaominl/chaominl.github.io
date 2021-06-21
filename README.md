@@ -22,35 +22,21 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 
 
 ## Teaching
-Spring 2021: Math 134B Financial Derivatives
+Summer I 2021: Math 3A Introduction to Linear Algebra
 > Discussion Sessions: 
->> Tuesday 4:00 p.m. - 4:50 p.m. PT   
->> Thursday 4:00 p.m. - 4:50 p.m. PT 
+>> Monday 11:00 a.m. - 11:50 a.m. PT   
+>> Wednesday 11:00 p.m. - 11:50 a.m. PT   
+>> Friday 11:00 p.m. - 11:50 p.m. PT 
 
 > Location: 
->> Zoom: [https://uci.zoom.us/j/94381124681](https://uci.zoom.us/j/94381124681)
+>> Zoom: [https://uci.zoom.us/j/96671963909](https://uci.zoom.us/j/96671963909)
 
 > Office Hours: 
->> Tuesday 1:00 p.m. - 2:00 p.m. PT   
->> Thursday 1:00 p.m. - 2:00 p.m. PT   
+>> TBD 
 
 > Location: 
->> Zoom: [https://uci.zoom.us/j/98210891979](https://uci.zoom.us/j/98210891979)
+>> Zoom: TBD
 
-Spring 2021: Math 134C Financial Models
-> Discussion Sessions: 
->> Tuesday 12:00 p.m. - 12:50 p.m. PT   
->> Thursday 12:00 p.m. - 12:50 p.m. PT 
-
-> Location: 
->> Zoom: [https://uci.zoom.us/j/93865690779](https://uci.zoom.us/j/93865690779)
-
-> Office Hours: 
->> Tuesday 1:00 p.m. - 2:00 p.m. PT   
->> Thursday 1:00 p.m. - 2:00 p.m. PT   
-
-> Location: 
->> Zoom: [https://uci.zoom.us/j/98210891979](https://uci.zoom.us/j/98210891979)
 
 
 
@@ -66,4 +52,4 @@ Spring 2021: Math 134C Financial Models
 <br />
 
 
-###### Last modified: April 02, 2021.
+###### Last modified: June 21, 2021.

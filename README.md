@@ -53,4 +53,4 @@ Summer I 2021: Math 3A Introduction to Linear Algebra
 <br />
 
 
-###### Last modified: June 21, 2021.
+###### Last modified: June 22, 2021.

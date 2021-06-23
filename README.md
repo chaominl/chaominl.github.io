@@ -25,17 +25,18 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 Summer I 2021: Math 3A Introduction to Linear Algebra
 > Discussion Sessions: 
 >> Monday 11:00 a.m. - 11:50 a.m. PT   
->> Wednesday 11:00 p.m. - 11:50 a.m. PT   
->> Friday 11:00 p.m. - 11:50 p.m. PT 
+>> Wednesday 11:00 a.m. - 11:50 a.m. PT   
+>> Friday 11:00 a.m. - 11:50 a.m. PT 
 
 > Location: 
 >> Zoom: [https://uci.zoom.us/j/96671963909](https://uci.zoom.us/j/96671963909)
 
 > Office Hours: 
->> TBD 
+>> Monday 12:00 p.m. - 12:50 p.m. PT   
+>> Wednesday 12:00 p.m. - 12:50 p.m. PT   
 
 > Location: 
->> Zoom: TBD
+>> Zoom: [https://uci.zoom.us/j/96671963909](https://uci.zoom.us/j/96671963909)
 
 
 

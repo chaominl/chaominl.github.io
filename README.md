@@ -28,7 +28,7 @@ Fall 2021: Math 5A Calculus for Life Sciences
 > Location: 
 >> MSTB 124
 
-> Discussion Section A1 (44374): 
+> Discussion Section A2 (44374): 
 >> Tuesday and Thursday 14:00 p.m. - 14:50 p.m. PT   
 > Location: 
 >> MSTB 124

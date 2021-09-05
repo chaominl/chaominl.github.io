@@ -2,6 +2,7 @@
 
 |__Quarter__ | __Year__ | __Course__ |
 |:------------ |  :------------ | :-----------------|
+|__Fall__ | __2021__ | Math 5A Calculus for Life Sciences |
 |__Summer Session I__ | __2021__ | Math 3A Introduction to Linear Algebra |
 |__Spring__ | __2021__ | Math 134B Financial Derivatives  |
 | | | Math 134C Financial Models  |
@@ -50,5 +51,5 @@
 <br />
 <br />
 
-###### Last modified: June 21, 2021.
+###### Last modified: September 04, 2021.
 #### Back to [Homepage](https://chaominl.github.io)

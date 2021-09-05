@@ -6,7 +6,7 @@ Chinese: 林朝明
 
 
 ## About me
-I am a fourth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in J-flow and Bedford-Taylor Theory.
+I am a fifth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in J-flow and Bedford-Taylor Theory.
 
 <br />
 
@@ -22,23 +22,21 @@ I am a fourth year PhD student at University of California-Irvine advised by [Zh
 
 
 ## Teaching
-Summer I 2021: Math 3A Introduction to Linear Algebra
-> Discussion Sessions: 
->> Monday 11:00 a.m. - 11:50 a.m. PT   
->> Wednesday 11:00 a.m. - 11:50 a.m. PT   
->> Friday 11:00 a.m. - 11:50 a.m. PT 
-
+Fall 2021: Math 5A Calculus for Life Sciences
+> Discussion Section A1 (44372): 
+>> Tuesday and Thursday 10:00 a.m. - 10:50 a.m. PT   
 > Location: 
->> Zoom: [https://uci.zoom.us/j/96671963909](https://uci.zoom.us/j/96671963909)
+>> MSTB 124
+
+> Discussion Section A1 (44374): 
+>> Tuesday and Thursday 14:00 p.m. - 14:50 p.m. PT   
+> Location: 
+>> MSTB 124
 
 > Office Hours: 
->> Monday 12:00 p.m. - 12:50 p.m. PT   
->> Wednesday 12:00 p.m. - 12:50 p.m. PT   
-
+>> TBD 
 > Location: 
->> Zoom: [https://uci.zoom.us/j/96671963909](https://uci.zoom.us/j/96671963909)
-
-
+>> TBD
 
 
 [Previous](https://chaominl.github.io/TeachingExperience)
@@ -53,4 +51,4 @@ Summer I 2021: Math 3A Introduction to Linear Algebra
 <br />
 
 
-###### Last modified: June 22, 2021.
+###### Last modified: September 04, 2021.

@@ -34,7 +34,7 @@ Fall 2021: Math 5A Calculus for Life Sciences
 >> MSTB 124
 
 > Office Hours: 
->> Mondday and Friday 11:00 a.m. - 11:50 a.m. PT 
+>> Mondday and Friday 11:00 a.m. - 11:50 a.m. PT   
 > Location: 
 >> Zoom: https://uci.zoom.us/j/93679931134
 

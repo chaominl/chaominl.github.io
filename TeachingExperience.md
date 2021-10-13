@@ -1,7 +1,7 @@
 #### Courses taught at UCI (University of California Irvine) as a Teaching Assistant  
 
 |__Quarter__ | __Year__ | __Course__ |
-|:------------ |  :------------ | :-----------------|
+|:--------------- |  :------------ | :-----------------|
 |__Fall__ | __2021__ | Math 5A Calculus for Life Sciences |
 |__Summer Session I__ | __2021__ | Math 3A Introduction to Linear Algebra |
 |__Spring__ | __2021__ | Math 134B Financial Derivatives  |

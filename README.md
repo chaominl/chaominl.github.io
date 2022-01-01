@@ -6,7 +6,7 @@ Chinese: 林朝明
 
 
 ## About me
-I am a fifth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in J-flow and Bedford-Taylor Theory.
+I am a fifth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in deformed Hermitian--Yang--Mills equation and J equation.
 
 <br />
 
@@ -51,4 +51,4 @@ Fall 2021: Math 5A Calculus for Life Sciences
 <br />
 
 
-###### Last modified: September 04, 2021.
+###### Last modified: January 01, 2022.

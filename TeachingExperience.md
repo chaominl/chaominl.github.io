@@ -2,6 +2,7 @@
 
 |__Quarter__ | __Year__ | __Course__ |
 |:--------------- |  :------------ | :-----------------|
+|__Winter__ | __2022__ | Math 134B Financial Derivatives  |
 |__Fall__ | __2021__ | Math 5A Calculus for Life Sciences |
 |__Summer Session I__ | __2021__ | Math 3A Introduction to Linear Algebra |
 |__Spring__ | __2021__ | Math 134B Financial Derivatives  |
@@ -20,7 +21,6 @@
 |__Winter__  | __2019__ | Math 2B Calculus |
 |__Fall__ | __2018__ | Math 3D Elementary Differential Equations |
 |__Summer Session II__ | __2018__ | Math 2B Calculus |
-
 
 <br />    
 <br />    
@@ -51,5 +51,5 @@
 <br />
 <br />
 
-###### Last modified: September 04, 2021.
+###### Last modified: January 02, 2022.
 #### Back to [Homepage](https://chaominl.github.io)

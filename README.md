@@ -22,21 +22,21 @@ I am a fifth year PhD student at University of California-Irvine advised by [Zhi
 
 
 ## Teaching
-Fall 2021: Math 5A Calculus for Life Sciences
-> Discussion Section A1 (44372): 
->> Tuesday and Thursday 10:00 a.m. - 10:50 a.m. PT   
+Winter 2022: Math 134B Financial Derivatives
+> Discussion Section A1 (45096): 
+>> Tuesday and Thursday 15:00 p.m. - 15:50 p.m. PT   
 > Location: 
->> MSTB 124
+>> RH 114
 
-> Discussion Section A2 (44374): 
->> Tuesday and Thursday 14:00 p.m. - 14:50 p.m. PT   
+> Discussion Section A2 (45097): 
+>> Tuesday and Thursday 9:00 a.m. - 9:50 a.m. PT   
 > Location: 
->> MSTB 124
+>> RH 190
 
 > Office Hours: 
->> Mondday and Friday 11:00 a.m. - 11:50 a.m. PT   
+>> TBD   
 > Location: 
->> Zoom: https://uci.zoom.us/j/93679931134
+>> TBD
 
 
 [Previous](https://chaominl.github.io/TeachingExperience)
@@ -51,4 +51,4 @@ Fall 2021: Math 5A Calculus for Life Sciences
 <br />
 
 
-###### Last modified: January 01, 2022.
+###### Last modified: January 02, 2022.

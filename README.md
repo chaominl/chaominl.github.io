@@ -34,9 +34,9 @@ Winter 2022: Math 134B Financial Derivatives
 >> RH 190
 
 > Office Hours: 
->> TBD   
+>> Monday and Wednesday 10:100 a.m. - 10:50 a.m. PT   
 > Location: 
->> TBD
+>> Zoom [https://uci.zoom.us/j/92803581496](https://uci.zoom.us/j/92803581496)
 
 
 [Previous](https://chaominl.github.io/TeachingExperience)
@@ -51,4 +51,4 @@ Winter 2022: Math 134B Financial Derivatives
 <br />
 
 
-###### Last modified: January 02, 2022.
+###### Last modified: January 11, 2022.

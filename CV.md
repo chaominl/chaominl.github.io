@@ -2,7 +2,7 @@
 * Differential Geometry  
 * Complex Geometry 
 
-Here is my [CV](https://github.com/chaominl/chaominl.github.io/blob/master/Curriculum-Vitae-2022.pdf).
+Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curriculum-Vitae-2022.pdf).
 
 # Education
 

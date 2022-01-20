@@ -10,7 +10,7 @@ Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curric
 * Research Assistant  
 Mathematics Division at  
 [National Center for Theoretical Sciences](http://www.ncts.ntu.edu.tw) (NCTS)  
-Dec 2020-Apr 2021, Aug 2016-June 2017 
+Dec 2020-Apr 2021, Aug 2016-June 2017    
 Advisor:  
     - [Prof. Chung-Jun Tsai](http://homepage.ntu.edu.tw/~cjtsai/). 
 

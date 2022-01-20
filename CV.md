@@ -4,6 +4,25 @@
 
 Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curriculum-Vitae-2022.pdf).
 
+
+# Work Experience
+
+* Research Assistant  
+Mathematics Division at  
+[National Center for Theoretical Sciences](http://www.ncts.ntu.edu.tw) (NCTS)  
+Dec 2020-Apr 2021  
+Advisor:  
+    - [Prof. Chung-Jun Tsai](http://homepage.ntu.edu.tw/~cjtsai/). 
+
+* Research Assistant  
+Mathematics Division at  
+[National Center for Theoretical Sciences](http://www.ncts.ntu.edu.tw) (NCTS)  
+Aug 2016-June 2017  
+Advisor:  
+    - [Prof. Chung-Jun Tsai](http://homepage.ntu.edu.tw/~cjtsai/). 
+
+
+
 # Education
 
 * Ph.D. Student  
@@ -14,14 +33,6 @@ Advisors:
     - [Prof. Zhiqin Lu](https://www.math.uci.edu/~zlu/)    
     - [Prof. Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/)    
 (Sort by Last Name.)  
-
-
-* Research Assistant  
-Mathematics Division at  
-[National Center for Theoretical Sciences](http://www.ncts.ntu.edu.tw) (NCTS)  
-2016-2017  
-Advisor:  
-    - [Prof. Chung-Jun Tsai](http://homepage.ntu.edu.tw/~cjtsai/). 
 
 * Master of Science   
 [Department of Mathematics](http://www.math.ntu.edu.tw)   
@@ -39,5 +50,5 @@ Advisor:
 <br />    
 <br />
 <br />
-###### Last modified: January 18, 2022.
+###### Last modified: January 19, 2022.
 #### Back to [Homepage](https://chaominl.github.io)

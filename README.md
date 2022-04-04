@@ -22,21 +22,21 @@ I am a fifth year PhD student at University of California-Irvine advised by [Zhi
 
 
 ## Teaching
-Winter 2022: Math 134B Financial Derivatives
-> Discussion Section A1 (45096): 
->> Tuesday and Thursday 15:00 p.m. - 15:50 p.m. PT   
+Winter 2022: Math 5A BioCalculus
+> Discussion Section A3 (44553): 
+>> Tuesday and Thursday 10:00 a.m. - 10:50 a.m. PT   
 > Location: 
->> RH 114
+>> DBH 1500
 
-> Discussion Section A2 (45097): 
->> Tuesday and Thursday 9:00 a.m. - 9:50 a.m. PT   
+> Discussion Section A5 (44555): 
+>> Tuesday and Thursday 12:00 p.m. - 12:50 p.m. PT   
 > Location: 
->> RH 190
+>> DBH 1500
 
 > Office Hours: 
->> Monday and Wednesday 10:100 a.m. - 10:50 a.m. PT   
+>> Wednesday 2:00 p.m. - 2:50 p.m. PT   
 > Location: 
->> Zoom [https://uci.zoom.us/j/92803581496](https://uci.zoom.us/j/92803581496)
+>> Zoom [https://uci.zoom.us/j/92017826496](https://uci.zoom.us/j/92017826496)
 
 
 [Previous](https://chaominl.github.io/TeachingExperience)
@@ -51,4 +51,4 @@ Winter 2022: Math 134B Financial Derivatives
 <br />
 
 
-###### Last modified: January 11, 2022.
+###### Last modified: April 04, 2022.

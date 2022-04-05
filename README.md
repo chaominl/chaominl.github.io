@@ -38,6 +38,7 @@ Winter 2022: Math 5A BioCalculus
 > Location: 
 >> Zoom [https://uci.zoom.us/j/92017826496](https://uci.zoom.us/j/92017826496)
 
+[Notes and Worksheets](https://github.com/chaominl/TA-materials/tree/main/Spring%202022%20Math%205A)
 
 [Previous](https://chaominl.github.io/TeachingExperience)
 

@@ -22,23 +22,16 @@ I am a fifth year PhD student at University of California-Irvine advised by [Zhi
 
 
 ## Teaching
-Winter 2022: Math 5A BioCalculus
-> Discussion Section A3 (44553): 
->> Tuesday and Thursday 10:00 a.m. - 10:50 a.m. PT   
+Summer Session I 2022: Math 175 Combinatorics
+> Discussion Section: 
+>> Monday, Wednesday, and Friday 15:00 p.m. - 15:50 p.m. PT   
 > Location: 
->> DBH 1500
+>> Zoom [https://uci.zoom.us/j/98039279102](https://uci.zoom.us/j/98039279102)
 
-> Discussion Section A5 (44555): 
->> Tuesday and Thursday 12:00 p.m. - 12:50 p.m. PT   
+
+> Office Hours: TBD
 > Location: 
->> DBH 1500
-
-> Office Hours: 
->> Wednesday 2:00 p.m. - 2:50 p.m. PT   
-> Location: 
->> Zoom [https://uci.zoom.us/j/92017826496](https://uci.zoom.us/j/92017826496)
-
-[Notes and Worksheets](https://github.com/chaominl/TA-materials/tree/main/Spring%202022%20Math%205A)
+>> Zoom []()
 
 [Previous](https://chaominl.github.io/TeachingExperience)
 
@@ -52,4 +45,4 @@ Winter 2022: Math 5A BioCalculus
 <br />
 
 
-###### Last modified: April 04, 2022.
+###### Last modified: June 22, 2022.

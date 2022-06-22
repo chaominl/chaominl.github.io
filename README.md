@@ -29,9 +29,10 @@ Summer Session I 2022: Math 175 Combinatorics
 >> Zoom [https://uci.zoom.us/j/98039279102](https://uci.zoom.us/j/98039279102)
 
 
-> Office Hours: TBD
+> Office Hours: 
+>> Monday, Wednesday, and Friday 16:00 p.m. - 16:50 p.m. PT   
 > Location: 
->> Zoom []()
+>> Zoom [https://uci.zoom.us/j/98039279102](https://uci.zoom.us/j/98039279102)
 
 [Previous](https://chaominl.github.io/TeachingExperience)
 

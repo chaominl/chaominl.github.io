@@ -6,7 +6,7 @@ Chinese: 林朝明
 
 
 ## About me
-I am a fifth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in deformed Hermitian--Yang--Mills equation and J equation.
+I am a sixth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in deformed Hermitian--Yang--Mills equation and J equation.
 
 <br />
 
@@ -46,4 +46,4 @@ Summer Session I 2022: Math 175 Combinatorics
 <br />
 
 
-###### Last modified: July 04, 2022.
+###### Last modified: July 13, 2022.

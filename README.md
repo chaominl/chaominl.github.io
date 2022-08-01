@@ -22,17 +22,17 @@ I am a sixth year PhD student at University of California-Irvine advised by [Zhi
 
 
 ## Teaching
-Summer Session I 2022: Math 175 Combinatorics
-> Discussion Section: 
->> Monday, Wednesday, and Friday 15:00 p.m. - 15:50 p.m. PT   
+Summer Session II 2022: Math 3A Linear Algebra
+> Lecture: 
+>> Monday, Wednesday, and Friday 9:00 a.m. - 10:50 a.m. PT   
 > Location: 
->> Zoom [https://uci.zoom.us/j/98039279102](https://uci.zoom.us/j/98039279102)
+>> Humanities Gateway 1800
 
 
 > Office Hours: 
->> Monday, Wednesday, and Friday 16:00 p.m. - 16:50 p.m. PT   
+>> Tuesday and Thursday 9:00 a.m. - 10:00 a.m. PT  
 > Location: 
->> Zoom [https://uci.zoom.us/j/98039279102](https://uci.zoom.us/j/98039279102)
+>> Zoom [https://uci.zoom.us/j/95389657002](https://uci.zoom.us/j/95389657002)
 
 [Previous](https://chaominl.github.io/TeachingExperience)
 
@@ -46,4 +46,4 @@ Summer Session I 2022: Math 175 Combinatorics
 <br />
 
 
-###### Last modified: July 13, 2022.
+###### Last modified: August 01, 2022.

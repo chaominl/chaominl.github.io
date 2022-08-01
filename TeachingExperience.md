@@ -1,4 +1,11 @@
-#### Courses taught at UCI (University of California Irvine) as a Teaching Assistant  
+#### Courses taught at UCI (University of California Irvine) as an Instructor 
+
+|__Quarter__ | __Year__ | __Course__ |
+|:--------------- |  :------------ | :-----------------|
+|__Summer Session II__ | __2022__ | Math 3A Introduction to Linear Algebra |
+
+<br />    
+<br />    #### Courses taught at UCI (University of California Irvine) as a Teaching Assistant  
 
 |__Quarter__ | __Year__ | __Course__ |
 |:--------------- |  :------------ | :-----------------|
@@ -53,5 +60,5 @@
 <br />
 <br />
 
-###### Last modified: June 22, 2022.
+###### Last modified: August 01, 2022.
 #### Back to [Homepage](https://chaominl.github.io)

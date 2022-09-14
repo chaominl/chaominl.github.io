@@ -6,7 +6,7 @@ Chinese: 林朝明
 
 
 ## About me
-I am a sixth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in deformed Hermitian--Yang--Mills equation and J equation.
+I am a sixth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in deformed Hermitian--Yang--Mills equation and general inverse sigma_k equations.
 
 <br />
 
@@ -21,18 +21,18 @@ I am a sixth year PhD student at University of California-Irvine advised by [Zhi
 <br />
 
 
-## Teaching
-Summer Session II 2022: Math 3A Linear Algebra
-> Lecture: 
->> Monday, Wednesday, and Friday 9:00 a.m. - 10:50 a.m. PT   
-> Location: 
->> Humanities Gateway 1800
+## Teaching 
+Fall 2022: 
+<!-- > Lecture: -->
+<!-- >> Monday, Wednesday, and Friday 9:00 a.m. - 10:50 a.m. PT   -->
+<!-- > Location:  -->
+<!-- >> Humanities Gateway 1800  -->
 
 
 > Office Hours: 
->> Tuesday and Thursday 9:00 a.m. - 10:00 a.m. PT  
+<!-- >> Tuesday and Thursday 9:00 a.m. - 10:00 a.m. PT  -->
 > Location: 
->> Zoom [https://uci.zoom.us/j/95389657002](https://uci.zoom.us/j/95389657002)
+<!-- >> Zoom [https://uci.zoom.us/j/95389657002](https://uci.zoom.us/j/95389657002) -->
 
 [Previous](https://chaominl.github.io/TeachingExperience)
 
@@ -46,4 +46,4 @@ Summer Session II 2022: Math 3A Linear Algebra
 <br />
 
 
-###### Last modified: August 01, 2022.
+###### Last modified: September 14, 2022.

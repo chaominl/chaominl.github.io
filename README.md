@@ -23,7 +23,7 @@ I am a sixth year PhD student at University of California-Irvine advised by [Zhi
 
 
 ## Teaching 
-Fall 2022: On break.
+Winter 2023: On break.
 <!-- > Lecture: -->
 <!-- >> Monday, Wednesday, and Friday 9:00 a.m. - 10:50 a.m. PT   -->
 <!-- > Location:  -->
@@ -47,4 +47,4 @@ Fall 2022: On break.
 <br />
 
 
-###### Last modified: December 19, 2022.
+###### Last modified: January 10, 2023.

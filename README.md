@@ -6,7 +6,6 @@ Chinese: 林朝明
 
 
 ## About me
-### I am currently on the job market!
 I am a sixth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in the deformed Hermitian--Yang--Mills equation and general inverse sigma_k type equations.
 
 <br />
@@ -47,4 +46,4 @@ Winter 2023: On break.
 <br />
 
 
-###### Last modified: January 29, 2023.
+###### Last modified: February 25, 2023.

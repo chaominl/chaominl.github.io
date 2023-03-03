@@ -6,7 +6,7 @@ Chinese: 林朝明
 
 
 ## About me
-I am a sixth year PhD student at University of California, Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). In Fall 2023, I will be a Zassenhaus Assistant Professor at Ohio State University mentored by [Bo Guan](https://people.math.osu.edu/guan.19/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in geometric analysis.
+I am a sixth year PhD student at University of California, Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). In Fall 2023, I will be a Zassenhaus Assistant Professor at Ohio State University under the mentorship of [Bo Guan](https://people.math.osu.edu/guan.19/). My research interests are in Complex Geometry, Differential Geometry, and geometric analysis.
 
 <br />
 

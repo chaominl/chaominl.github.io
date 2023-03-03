@@ -11,7 +11,7 @@ Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curric
 Mathematics Division at  
 [National Center for Theoretical Sciences](http://www.ncts.ntu.edu.tw) (NCTS)  
 Nov 2022-Dec 2022, Dec 2020-Apr 2021    
-Advisor:  
+Mentor:  
     - [Prof. Chung-Jun Tsai](http://homepage.ntu.edu.tw/~cjtsai/). 
 
 * Research Assistant  
@@ -51,5 +51,5 @@ Advisor:
 <br />
 <br /> 
 
-###### Last modified: February 24, 2023.
+###### Last modified: March 02, 2023.
 #### Back to [Homepage](https://chaominl.github.io)

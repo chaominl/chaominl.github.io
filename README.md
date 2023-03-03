@@ -6,7 +6,7 @@ Chinese: 林朝明
 
 
 ## About me
-I am a sixth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in the deformed Hermitian--Yang--Mills equation and general inverse sigma_k type equations.
+I am a sixth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). In Fall 2023, I will be a Zassenhaus Assistant Professor at Ohio State University mentored by [Bo Guan](https://people.math.osu.edu/guan.19/). My research interests are in Complex Geometry and Differential Geometry, right now particularly in geometric analysis.
 
 <br />
 
@@ -46,4 +46,4 @@ Winter 2023: On break.
 <br />
 
 
-###### Last modified: February 25, 2023.
+###### Last modified: March 02, 2023.

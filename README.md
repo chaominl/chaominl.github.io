@@ -22,7 +22,7 @@ I am a sixth year PhD student at University of California, Irvine advised by [Zh
 
 
 ## Teaching 
-Winter 2023: On break.
+Spring 2023:
 <!-- > Lecture: -->
 <!-- >> Monday, Wednesday, and Friday 9:00 a.m. - 10:50 a.m. PT   -->
 <!-- > Location:  -->

@@ -23,10 +23,15 @@ I am a sixth year PhD student at University of California, Irvine advised by [Zh
 
 ## Teaching 
 Spring 2023:
-<!-- > Lecture: -->
-<!-- >> Monday, Wednesday, and Friday 9:00 a.m. - 10:50 a.m. PT   -->
-<!-- > Location:  -->
-<!-- >> Humanities Gateway 1800  -->
+> Lecture: Math 2A 
+>> Tuesday and Thursday 11:00 a.m. - 11:50 a.m. PT   
+> Location:   
+>> SSTR 100   
+
+> Lecture: Math 134C
+>> Tuesday and Thursday 13:00 p.m. - 13:50 p.m. PT   
+> Location:   
+>> DBH 1500   
 
 
 > Office Hours: 
@@ -46,4 +51,4 @@ Spring 2023:
 <br />
 
 
-###### Last modified: March 20, 2023.
+###### Last modified: April 04, 2023.

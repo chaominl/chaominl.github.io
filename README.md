@@ -31,7 +31,7 @@ Spring 2023:
 > Lecture: Math 134C
 >> Tuesday and Thursday 13:00 p.m. - 13:50 p.m. PT   
 > Location:   
->> DBH 1500   
+>> MSTB 122   
 
 
 > Office Hours: 

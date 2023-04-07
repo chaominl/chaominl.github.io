@@ -45,9 +45,9 @@ Spring 2023:
 >> Zoom [https://uci.zoom.us/j/99401994653](https://uci.zoom.us/j/99401994653)
 
 
-<!--> Office Hours:  -->
+<!-- > Office Hours:  -->
 <!-- >> Tuesday and Thursday 9:00 a.m. - 10:00 a.m. PT  -->
-<!--> Location:  -->
+<!-- > Location:  -->
 <!-- >> Zoom [https://uci.zoom.us/j/95389657002](https://uci.zoom.us/j/95389657002) -->
 
 [Previous](https://chaominl.github.io/TeachingExperience)

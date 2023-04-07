@@ -33,10 +33,21 @@ Spring 2023:
 > Location:   
 >> MSTB 122   
 
-
-> Office Hours: 
-<!-- >> Tuesday and Thursday 9:00 a.m. - 10:00 a.m. PT  -->
+> Office Hours: Math 2A
+>> Monday and Wednesday 15:00 p.m. - 16:00 p.m. PT  
 > Location: 
+>> Zoom [ ]( )
+
+
+> Office Hours: Math 134C
+>> Monday and Wednesday 14:00 p.m. - 15:00 p.m. PT   
+> Location: 
+>> Zoom [https://uci.zoom.us/j/99401994653](https://uci.zoom.us/j/99401994653)
+
+
+<!--> Office Hours:  -->
+<!-- >> Tuesday and Thursday 9:00 a.m. - 10:00 a.m. PT  -->
+<!--> Location:  -->
 <!-- >> Zoom [https://uci.zoom.us/j/95389657002](https://uci.zoom.us/j/95389657002) -->
 
 [Previous](https://chaominl.github.io/TeachingExperience)
@@ -51,4 +62,4 @@ Spring 2023:
 <br />
 
 
-###### Last modified: April 04, 2023.
+###### Last modified: April 06, 2023.

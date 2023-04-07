@@ -12,6 +12,8 @@
 
 |__Quarter__ | __Year__ | __Course__ |
 |:--------------- |  :------------ | :-----------------|
+|__Spring__ | __2023__ | Math 2A Calculus  |
+| | | Math 134C Financial Models  |
 |__Summer Session I__ | __2022__ | Math 175 Combinatorics |
 |__Spring__ | __2022__ | Math 5A BioCalculus  |
 |__Winter__ | __2022__ | Math 134B Financial Derivatives  |
@@ -63,5 +65,5 @@
 <br />
 <br />
 
-###### Last modified: December 19, 2022.
+###### Last modified: April 06, 2023.
 #### Back to [Homepage](https://chaominl.github.io)

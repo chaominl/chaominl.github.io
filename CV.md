@@ -13,7 +13,7 @@ Mathematics Division at
 [Ohio State University](https://math.osu.edu)  
 Aug 2023-Aug 2025   
 Mentor:  
-    - [Prof. Bo Guan]([http://homepage.ntu.edu.tw/~cjtsai/](https://people.math.osu.edu/guan.19/)). 
+    - [Prof. Bo Guan](https://people.math.osu.edu/guan.19/). 
 
 * Visitor  
 Mathematics Division at  

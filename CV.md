@@ -3,10 +3,17 @@
 * Complex Geometry 
 * Geometric Analysis
 
-Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curriculum-Vitae-2023.pdf).
+Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curriculum-Vitae-2024.pdf).
 
 
 # Work Experience
+
+* Zassenhaus Assistant Professor  
+Mathematics Division at  
+[Ohio State University](https://math.osu.edu)  
+Aug 2023-Aug 2025   
+Mentor:  
+    - [Prof. Bo Guan]([http://homepage.ntu.edu.tw/~cjtsai/](https://people.math.osu.edu/guan.19/)). 
 
 * Visitor  
 Mathematics Division at  
@@ -29,7 +36,7 @@ Advisor:
 * Ph.D. Student  
 [Department of Mathematics](https://www.math.uci.edu)  
 University of California, Irvine   
-2017-present    
+2017-2023    
 Advisors: 
     - [Prof. Zhiqin Lu](https://www.math.uci.edu/~zlu/)    
     - [Prof. Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/)    
@@ -52,5 +59,5 @@ Advisor:
 <br />
 <br /> 
 
-###### Last modified: June 03, 2023.
+###### Last updated: June 25, 2023.
 #### Back to [Homepage](https://chaominl.github.io)

@@ -2,7 +2,8 @@
 * Differential Geometry  
 * Complex Geometry 
 * Geometric Analysis
-
+* Real Algebraic Geometry
+  
 Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curriculum-Vitae-2024.pdf).
 
 
@@ -11,12 +12,19 @@ Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curric
 * Zassenhaus Assistant Professor  
 Mathematics Division at  
 [Ohio State University](https://math.osu.edu)  
-Aug 2023-Aug 2025   
+Aug 2023-Aug 2026   
 Mentor:  
     - [Prof. Bo Guan](https://people.math.osu.edu/guan.19/). 
 
 * Visitor  
-Mathematics Division at  
+Department of Mathematics  
+[Chinese University of Hong Kong](https://www.math.cuhk.edu.hk) (CUHK)  
+Aug 02 2023-Aug 07 2023    
+Mentor:  
+    - [Prof. Man Chun Lee](https://sites.google.com/view/mcleemath/home). 
+
+* Visitor  
+Department of Mathematics  
 [National Taiwan University](http://www.math.ntu.edu.tw) (NTU)  
 July 2023-Aug 2023    
 Mentor:  
@@ -66,5 +74,5 @@ Advisor:
 <br />
 <br /> 
 
-###### Last updated: August 01, 2023.
+###### Last updated: August 19, 2023.
 #### Back to [Homepage](https://chaominl.github.io)

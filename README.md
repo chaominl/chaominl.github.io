@@ -33,7 +33,7 @@ Autumn 2023:
 >> Sullivant Hall 220
 
 > Office Hours:  
->> Monday and Wednesday 14:00 p.m. - 15:00 p.m. EDT    
+>> Tuesday and Thursday 15:00 p.m. - 16:30 p.m. EDT    
 > Location:   
 >> TBD
 

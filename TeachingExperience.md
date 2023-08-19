@@ -1,3 +1,13 @@
+#### Courses taught at OSU (Ohio State University) as an Instructor 
+
+|__Semester__ | __Year__ | __Course__ |
+|:--------------- |  :------------ | :-----------------|
+|__Autumn__ | __2023__ | Math 1131 Calculus for Business |
+
+<br />    
+<br />    
+
+
 #### Courses taught at UCI (University of California Irvine) as an Instructor 
 
 |__Quarter__ | __Year__ | __Course__ |
@@ -57,13 +67,11 @@
 
 
 
-
-
  
       
 <br />    
 <br />
 <br />
 
-###### Last modified: April 06, 2023.
+###### Last modified: August 19, 2023.
 #### Back to [Homepage](https://chaominl.github.io)

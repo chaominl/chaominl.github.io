@@ -6,7 +6,9 @@ Chinese: 林朝明
 
 
 ## About me
-I am a Zassenhaus Assistant Professor at the Ohio State University under the mentorship of [Bo Guan](https://people.math.osu.edu/guan.19/).
+I am a Zassenhaus Assistant Professor in the [Department of Mathematics](https://math.osu.edu) at the Ohio State University under the mentorship of [Bo Guan](https://people.math.osu.edu/guan.19/). My research interests are in Complex Geometry, Differential Geometry, and Geometric Analysis.
+
+I received my Ph.D. in the Department of Mathematics at University of California-Irvine in June 2023, where I study general inverse sigma_k type equations under the supervision of [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/).
 
 <!-- I am a sixth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). In Fall 2023, I will be a Zassenhaus Assistant Professor at the Ohio State University under the mentorship of [Bo Guan](https://people.math.osu.edu/guan.19/). My research interests are in Complex Geometry, Differential Geometry, and Geometric Analysis. -->
 
@@ -24,7 +26,11 @@ I am a Zassenhaus Assistant Professor at the Ohio State University under the men
 
 
 ## Teaching 
-Spring 2023:
+Autumn 2023:
+> Lecture: Math 134C  
+>> Tuesday and Thursday 13:00 p.m. - 13:50 p.m. PT    
+> Location:    
+>> MSTB 122    
 <!-- > Lecture: Math 134C -->
 <!-- >> Tuesday and Thursday 13:00 p.m. - 13:50 p.m. PT    -->
 <!-- > Location:    -->

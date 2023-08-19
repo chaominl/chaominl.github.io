@@ -27,10 +27,17 @@ I received my Ph.D. in the Department of Mathematics at University of California
 
 ## Teaching 
 Autumn 2023:
-> Lecture: Math 134C  
->> Monday, Wednesday, and Friday 8:00 a.m. - 8:50 a.m. ET    
+> Lecture: Math 1131 - Calculus for Business 
+>> Monday, Wednesday, and Friday 8:00 a.m. - 8:55 a.m. EDT    
 > Location:    
->> MSTB 122    
+>> Sullivant Hall 220
+
+> Office Hours:  
+>> Monday and Wednesday 14:00 p.m. - 15:00 p.m. EDT    
+> Location:   
+>> TBD
+
+
 <!-- > Lecture: Math 134C -->
 <!-- >> Tuesday and Thursday 13:00 p.m. - 13:50 p.m. PT    -->
 <!-- > Location:    -->

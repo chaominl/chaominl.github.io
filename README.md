@@ -2,11 +2,13 @@
 Chinese: 林朝明    
 [IPA](https://en.wikipedia.org/wiki/Help:IPA/Mandarin): lʲín ʈʂʰáu mʲə́ŋ 
 
-**chaominl [at] uci [dot] edu**
+**lin.4579 [at] osu [dot] edu**
 
 
 ## About me
-I am a sixth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). In Fall 2023, I will be a Zassenhaus Assistant Professor at the Ohio State University under the mentorship of [Bo Guan](https://people.math.osu.edu/guan.19/). My research interests are in Complex Geometry, Differential Geometry, and Geometric Analysis.
+I am a Zassenhaus Assistant Professor at the Ohio State University under the mentorship of [Bo Guan](https://people.math.osu.edu/guan.19/).
+
+<!-- I am a sixth year PhD student at University of California-Irvine advised by [Zhiqin Lu](https://www.math.uci.edu/~zlu/) and [Xiangwen Zhang](https://www.math.uci.edu/~xiangwen/). In Fall 2023, I will be a Zassenhaus Assistant Professor at the Ohio State University under the mentorship of [Bo Guan](https://people.math.osu.edu/guan.19/). My research interests are in Complex Geometry, Differential Geometry, and Geometric Analysis. -->
 
 <br />
 
@@ -46,4 +48,4 @@ Spring 2023:
 <br />
 
 
-###### Last updated: August 01, 2023.
+###### Last updated: August 19, 2023.

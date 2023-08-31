@@ -33,7 +33,7 @@ Autumn 2023:
 > Office Hours:  
 >> Tuesday and Thursday 15:00 p.m. - 16:30 p.m. EDT    
 > Location:   
->> TBD
+>> Mathematics Building 417
 
 
 <!-- > Lecture: Math 134C -->
@@ -59,4 +59,4 @@ Autumn 2023:
 <br />
 
 
-###### Last updated: August 19, 2023.
+###### Last updated: August 31, 2023.

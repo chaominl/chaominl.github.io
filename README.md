@@ -28,7 +28,7 @@ Spring 2024:
 > Lecture: Math 1131 - Calculus for Business 
 >> Monday, Wednesday, and Friday 9:10 a.m. - 10:05 a.m. EDT    
 > Location:    
->> Fontana Lab 1000
+>> Knowlton Hall 250
 
 > Lecture: Math 1131 - Calculus for Business 
 >> Monday, Wednesday, and Friday 13:50 p.m. - 14:45 p.m. EDT    

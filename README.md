@@ -24,11 +24,16 @@ I am a Zassenhaus Assistant Professor in the [Department of Mathematics](https:/
 
 
 ## Teaching 
-Autumn 2023:
+Spring 2024:
 > Lecture: Math 1131 - Calculus for Business 
->> Monday, Wednesday, and Friday 8:00 a.m. - 8:55 a.m. EDT    
+>> Monday, Wednesday, and Friday 9:10 a.m. - 10:05 a.m. EDT    
 > Location:    
->> Sullivant Hall 220
+>> Fontana Lab 1000
+
+> Lecture: Math 1131 - Calculus for Business 
+>> Monday, Wednesday, and Friday 13:50 p.m. - 14:45 p.m. EDT    
+> Location:    
+>> Mendenhall Lab 100
 
 > Office Hours:  
 >> Tuesday and Thursday 15:00 p.m. - 16:30 p.m. EDT    
@@ -59,4 +64,4 @@ Autumn 2023:
 <br />
 
 
-###### Last updated: December 04, 2023.
+###### Last updated: January 16, 2024.

@@ -24,7 +24,7 @@ I am a Zassenhaus Assistant Professor in the [Department of Mathematics](https:/
 
 
 ## Teaching 
-Spring 2024:
+Autumn 2024:
 > Lecture:    
 > Location:
 

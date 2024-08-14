@@ -25,11 +25,16 @@ I am a Zassenhaus Assistant Professor in the [Department of Mathematics](https:/
 
 ## Teaching 
 Autumn 2024:
-> Lecture:    
-> Location:
+> Lecture: Math 2174 (28389) Linear Algebra and Differential Equations for Engineers
+>> Monday, Wednesday, and Friday 12:40 p.m. - 13:35 p.m. EST   
+> Location: Townshend Hall 255
 
-> Office Hours:  
-> Location:
+> Lecture: Math 2174 (23418) Linear Algebra and Differential Equations for Engineers
+>> Monday, Wednesday, and Friday 13:50 p.m. - 14:45 p.m. EST   
+> Location: Cockins Hall 240
+
+> Office Hours:  TBD
+> Location: TBD
 
 <!-- > Lecture: Math 134C -->
 <!-- >> Tuesday and Thursday 13:00 p.m. - 13:50 p.m. PT    -->
@@ -54,4 +59,4 @@ Autumn 2024:
 <br />
 
 
-###### Last updated: May 10, 2024.
+###### Last updated: August 14, 2024.

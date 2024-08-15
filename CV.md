@@ -4,7 +4,7 @@
 * Geometric Analysis
 * Real Algebraic Geometry
   
-Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curriculum-Vitae-2024.pdf).
+Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curriculum-Vitae-2025.pdf).
 
 
 # Work Experience
@@ -74,5 +74,5 @@ Advisor:
 <br />
 <br /> 
 
-###### Last updated: May 9, 2024.
+###### Last updated: August 15, 2024.
 #### Back to [Homepage](https://chaominl.github.io)

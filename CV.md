@@ -74,5 +74,5 @@ Advisor:
 <br />
 <br /> 
 
-###### Last updated: August 15, 2024.
+###### Last updated: November 01, 2024.
 #### Back to [Homepage](https://chaominl.github.io)

@@ -60,4 +60,4 @@ Autumn 2024:
 <br />
 
 
-###### Last updated: August 14, 2024.
+###### Last updated: November 01, 2024.

@@ -2,6 +2,7 @@
 
 |__Semester__ | __Year__ | __Course__ |
 |:--------------- |  :------------ | :-----------------|
+|__Spring__ | __2025__ | Math 4551 Vector Analysis |
 |__Autumn__ | __2024__ | Math 2174 Linear Algebra and Differential Equations for Engineers |
 | | | Math 2174 Linear Algebra and Differential Equations for Engineers  |
 |__Spring__ | __2024__ | Math 1131 Calculus for Business |
@@ -77,5 +78,5 @@
 <br />
 <br />
 
-###### Last modified: August 14, 2024.
+###### Last modified: December 24, 2024.
 #### Back to [Homepage](https://chaominl.github.io)

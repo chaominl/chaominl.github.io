@@ -29,9 +29,9 @@ Spring 2025:
 >> Monday, Wednesday, and Friday 12:40 p.m. - 13:35 p.m. EST   
 > Location: Scott Lab N050
 
-> Office Hours:  TBD
-
-> Location: TBD
+> Office Hours:  
+>> Monday, Wednesday, and Friday 10:30 a.m. - 11:30 a.m. EST   
+> Location: Mathematics Tower 416
 
 <!-- > Lecture: Math 134C -->
 <!-- >> Tuesday and Thursday 13:00 p.m. - 13:50 p.m. PT    -->
@@ -56,4 +56,4 @@ Spring 2025:
 <br />
 
 
-###### Last updated: December 24, 2024.
+###### Last updated: January 13, 2025.

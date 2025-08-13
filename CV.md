@@ -9,6 +9,12 @@ Here is my [CV](https://github.com/chaominl/chaominl.github.io/raw/master/Curric
 
 # Work Experience
 
+* Assistant Professor  
+Department of Mathematics  
+[National Taiwan University](http://www.math.ntu.edu.tw) (NTU)
+Aug 2025-present    
+
+
 * Zassenhaus Assistant Professor  
 Mathematics Division at  
 [Ohio State University](https://math.osu.edu)  
@@ -74,5 +80,5 @@ Advisor:
 <br />
 <br /> 
 
-###### Last updated: November 01, 2024.
+###### Last updated: August 13, 2025.
 #### Back to [Homepage](https://chaominl.github.io)

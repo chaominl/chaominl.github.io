@@ -4,7 +4,7 @@ Chinese: 林朝明
 
 **chaominl [at] ntu [dot] edu [dot] tw**
 
-**lin.4579 [at] osu [dot] edu**
+<!-- **lin.4579 [at] osu [dot] edu** -->
 
 
 ## About me

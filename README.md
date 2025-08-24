@@ -53,11 +53,7 @@ Spring 2025:
 <br />
 
 
-## [Non-Math](https://chaominl.github.io/recreation)
-
-<br />
-<br />
-<br />
+<!-- ## [Non-Math](https://chaominl.github.io/recreation) -->
 
 
-###### Last updated: August 13, 2025.
+###### Last updated: August 24, 2025.
